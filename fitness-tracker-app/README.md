@@ -101,4 +101,4 @@ Vite for a fast and efficient development environment.
 Here’s a screenshot of the app running locally:
 
 ![Local Setup](screenshoots/Local%20Setup.PNG)
-![Localserver](screenshoots/Local%20Setup.PNG)
+![Localserver](screenshoots/Local%20server.PNG)
