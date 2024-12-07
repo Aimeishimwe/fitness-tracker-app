@@ -102,3 +102,5 @@ Here’s a screenshot of the app running locally:
 
 ![Local Setup](screenshoots/Local%20Setup.PNG)
 ![Localserver](screenshoots/Local%20server.PNG)
+
+### Welcome to support lives and make the World a better place for all
